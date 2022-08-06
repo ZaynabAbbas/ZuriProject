@@ -1,0 +1,42 @@
+* {
+  box-sizing: border-box;
+  font-family: "Averta", sans-serif;
+  margin: 0;
+  padding: 0;
+}
+.hire-talent {
+  color: #fff;
+  background-color: #e7332b;
+  font-family: "Graphik", sans-serif;
+  font-size: 16px;
+  font-style: normal;
+  font-weight: 400;
+  line-height: 19%;
+  text-align: center;
+  text-transform: none;
+  margin-right: 15px;
+  border-radius: 0 0 8px 0;
+  padding: 20px 45px;
+  border: 0;
+  text-decoration: none;
+  outline: 0;
+}
+.imaGe {
+  position: fixed;
+  left: 80px;
+  top: 20px;
+}
+.tagz {
+}
+.home {
+  color: #161617;
+  text-decoration: none;
+}
+.impact {
+  color: #161617;
+  text-decoration: none;
+}
+.whyUs {
+  color: #161617;
+  text-decoration: none;
+}
